@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ReactJS, Tailwind CSS & Firebase
 
-- 👯 I’m looking to Learn with other developers
+- 👯 I’m looking to learn with other developers
 
 - 🥅 2022 Goals: Efficient MERN stack developer
 
