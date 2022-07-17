@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 🌱 I’m currently learning VueJS, Tailwind CSS & Firebase
+- 🌱 I’m currently learning ReactJS, Tailwind CSS & Firebase
 
 - 👯 I’m looking to Learn with other developers
 
