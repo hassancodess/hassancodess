@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to Learn with other developers
 
-- 🥅 2022 Goals: Efficient with MERN Stack
+- 🥅 2022 Goals: Efficient MERN stack developer
 
 - 📫 How to reach me: **dev.hassancodes@gmail.com**
 
