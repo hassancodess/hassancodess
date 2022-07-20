@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 🌱 I’m currently learning ReactJS, Tailwind CSS & Firebase
-
-- 👯 I’m looking to learn with other developers
+- 🌱 I’m currently learning **ReactJS, Tailwind CSS & Firebase**
 
 - 🥅 2022 Goals: Efficient MERN stack developer
 
 - 📫 How to reach me: **dev.hassancodes@gmail.com**
+
+- ⚡ Fun fact **I use Vite over CRA** 😛
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassancodess) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hassancodess) 
