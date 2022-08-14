@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS, Tailwind CSS & Firebase**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🥅 2022 Goals: Efficient with React, TypeScript & Firebase
 
