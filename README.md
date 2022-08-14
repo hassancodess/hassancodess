@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS & Firebase**
 
-- 🥅 2022 Goals: Efficient MERN stack developer
+- 🥅 2022 Goals: Efficient with React, TypeScript & Firebase
 
 - 📫 How to reach me: **dev.hassancodes@gmail.com**
 
