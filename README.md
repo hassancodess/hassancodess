@@ -23,6 +23,6 @@
 
 ---
 
-![GitArtwork](gitartwork.svg)
+![](gitartwork.svg)
 
 [![](https://visitcount.itsvg.in/api?id=hassancodess&icon=0&color=0)](https://visitcount.itsvg.in)
