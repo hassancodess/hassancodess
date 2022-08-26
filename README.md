@@ -3,13 +3,13 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 🌱 I’m currently learning **TypeScript**<br>
 
-- 🥅 2022 Goals: Efficient with React, TypeScript & Firebase
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 🥅 2022 Goals: Efficient with React, TypeScript & Firebase<br>
 
-- 📫 How to reach me: **dev.hassancodes@gmail.com**
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 📫 How to reach me: **dev.hassancodes@gmail.com**<br>
 
-- ⚡ Fun fact: **I use Vite over CRA** 😛
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> ⚡ Fun fact: **I use Vite over CRA** 😛<br>
 
 ### 🌐 Socials:
 
