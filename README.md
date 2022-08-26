@@ -1,12 +1,10 @@
-<h1 align="center" style="">Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Hassan, Full Stack Developer</h1>
-
 <h3 align="center">
         <samp>&gt; Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I am
                 <b>Hassan Hanif, Full Stack Developer</b>
         </samp>
 </h3>
-<br>
 
+<br>
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
@@ -36,8 +34,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hassancodess&theme=react&hide_border=false)<br/>
 
----
-
-![](gitartwork.svg)
+<br>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
