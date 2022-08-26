@@ -1,6 +1,5 @@
 <h1 align="center" style="">Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Hassan, Full Stack Developer</h1>
 
-# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Hassan, Full Stack Developer
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -27,3 +26,5 @@
 ---
 
 ![](gitartwork.svg)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
