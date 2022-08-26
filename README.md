@@ -24,5 +24,3 @@
 ---
 
 ![](gitartwork.svg)
-
-![](https://komarev.com/ghpvc/?username=hassancodess&style=for-the-badge)
