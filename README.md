@@ -3,13 +3,13 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 🌱 I’m currently learning **TypeScript**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently learning **TypeScript**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 🥅 2022 Goals: Efficient with React, TypeScript & Firebase<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2022 Goals: Efficient with React, TypeScript & Firebase<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 📫 How to reach me: **dev.hassancodes@gmail.com**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **dev.hassancodes@gmail.com**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> ⚡ Fun fact: **I use Vite over CRA** 😛<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: **I use Vite over CRA** 😛<br>
 
 ### 🌐 Socials:
 
