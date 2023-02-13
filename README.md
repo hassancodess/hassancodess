@@ -23,8 +23,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hassancodess&theme=react&hide_border=false)<br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-<p align="right">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 
 <!-- GIF -->
