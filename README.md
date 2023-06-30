@@ -3,9 +3,9 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying the **FARM Stack**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying the **AWS**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2023 Goals: Well-versed with the **FARM Stack**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2023 Goals: Well-versed with the **Full-Stack Mobile App Development**<br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **dev.hassancodes@gmail.com**<br>
 
