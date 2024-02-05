@@ -37,15 +37,6 @@
 <p>
     <img src="https://skillicons.dev/icons?i=aws,gcp,tensorflow,bash,figma" />
 </p>
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hassancodess&theme=react&hide_border=false)<br/>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
-<!-- GIF -->
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <!-- Profile Visits Count -->
