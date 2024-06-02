@@ -3,7 +3,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying the **Machnine Learning & Data Science**<br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying **E2E Testing & Design Patterns**<br>
 
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2024 Goals: Well-versed with the **CI/CD**<br>
 
