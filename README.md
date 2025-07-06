@@ -3,13 +3,13 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying **E2E Testing & Design Patterns**<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying **Blockchain Development & Serverless Architecture**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2024 Goals: Well-versed with the **CI/CD**<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2025 Goals: **AWS Developer Associate Certification (DVA-C02)**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **dev.hassancodess@gmail.com**<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **dev.hassancodess@gmail.com**<br>
 
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: **I use Vite over CRA** 😛<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: **I use Vite over CRA** 😛 (2020)<br>
 
 ### 🌐 Socials:
 <p>
