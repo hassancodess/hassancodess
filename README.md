@@ -1,5 +1,6 @@
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/8ba22e1f-7723-470b-961e-6485c21fd9d6" />
 
-<img src="./header.png"/>
+<!-- <img src="./header.png"/> -->
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
