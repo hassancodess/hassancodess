@@ -1,16 +1,14 @@
 <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/8ba22e1f-7723-470b-961e-6485c21fd9d6" />
 
-<!-- <img src="./header.png"/> -->
-
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I’m currently studying **Blockchain Development & Serverless Architecture**<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Currently diving deep into **System Design & AI Engineering**<br>
 
-<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2025 Goals: **AWS Developer Associate Certification (DVA-C02)**<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> 2026 Goals: **AWS Certified Generative AI Developer – Professional**<br>
 
 <img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> How to reach me: **dev.hassancodess@gmail.com**<br>
 
-<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: **I use Vite over CRA** 😛 (2020)<br>
+<img height="30" width="30" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Fun fact: I switched to Vite before it was cool 😛<br>
 
 ### 🌐 Socials:
 <p>
